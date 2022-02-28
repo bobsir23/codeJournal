@@ -43,6 +43,8 @@ step 3 - "ng generate component name"
 
 ## Additional Help
 
+"ng help"
+
 https://angular.io/guide/setup-local
 
 [Find Angular work here](Angular)
