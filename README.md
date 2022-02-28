@@ -1,4 +1,5 @@
 # Tayler Kleinow's Code Journal
+I am an iOS developer and this is a journal of my progress.
 
 ## 2022
 ### February
