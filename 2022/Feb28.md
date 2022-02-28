@@ -20,7 +20,7 @@ You will use html to build and css for styling
 
 ### Using Variables
 
-EX  
+EX
 ```html
     <header>
       <h1>{{title}}</h1>
