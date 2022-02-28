@@ -20,7 +20,6 @@ You will use html to build and css for styling
 
 ### Using Variables
 
-EX
 ```html
     <header>
       <h1>{{title}}</h1>
@@ -35,7 +34,6 @@ step 2 - open terminal "control ~"
 
 step 3 - "ng generate component name"
 
-EX  
 ```html
     <section id="name">
       <app-name></app-name>
