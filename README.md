@@ -12,3 +12,7 @@ I am an iOS developer and this is a journal of my progress.
 #### SOLID
 
 [March 4, 2022 - S](2022/Mar4.md)
+
+#### FireBase Authentication
+
+[March 23, 2022](2022/Mar23.md)
