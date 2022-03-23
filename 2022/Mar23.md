@@ -1,3 +1,3 @@
 # FireBase Authentication
 
-[Find Swift Example](FireBase/kleinowFirebseIntro)
+[Find Swift Example](FireBase)
